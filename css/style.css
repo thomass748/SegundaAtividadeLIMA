@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 45px;
+}
+
+header {
+        text-align: center;
+}
+
+h2 {
+    color: blue
+}
+
+aside {
+    text-align: center;
+}
+
+.destaque {
+    color: red;
+}
