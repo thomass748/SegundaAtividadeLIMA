@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    padding: 20px;
 }
 
 h1 {
@@ -21,4 +22,8 @@ aside {
 
 .destaque {
     color: red;
+}
+
+footer {
+    text-align: center;
 }
